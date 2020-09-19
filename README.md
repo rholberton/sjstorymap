@@ -1,2 +1,2 @@
 # sjstorymap
-Repo for the San Jose Story Map created by SJSU studeets &amp; Faculty
+Repo for the San Jose Story Map created by SJSU students &amp; Faculty
